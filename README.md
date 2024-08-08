@@ -1,16 +1,16 @@
-![Banner](assets/banner.png)
-
-# Obstacle Avoidance Robot 
-
-This repository contains the code and schematics for an Arduino-based obstacle avoidance robot. Built using C++, it utilizes ultrasonic sensors to detect obstacles and navigate autonomously. The project is IoT-enabled, allowing remote control and monitoring capabilities.
+![Banner](./assets/banner.png)
 
 ## Table of Contents
 
-- [About the Project](#about-the-project)
-- [Technologies Used](#technologies-used)
-- [Components &amp; Tools](#components--tools)
-- [Project Approach](#project-approach)
-- [Results](#results)
+[➯ About the Project](#about-the-project)
+
+➯ [Technologies Used](#technologies-used)
+
+➯ [Components &amp; Tools](#components--tools)
+
+➯ [Project Approach](#project-approach)
+
+➯ [Results](#results)
 
 ## About the Project
 
@@ -50,8 +50,4 @@ The Obstacle Avoidance Robot is designed to navigate through an environment by d
 
    - Set up the Bluetooth module for remote control and monitoring.
 
-## Results
-
-![Obstacle Avoidance Robot](path/to/your/output_image.png)
-
-[Back to Top](#obstacle-avoidance-robot-)
+[⬆️Back to Top](#obstacle-avoidance-robot-)
