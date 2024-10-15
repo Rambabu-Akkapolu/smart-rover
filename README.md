@@ -1,53 +1,73 @@
 ![Banner](./assets/banner.png)
 
-## Table of Contents
+# 🤖 Smart Rover - The Obstacle Avoidance & Bluetooth Control Robot
 
-[➯ About the Project](#about-the-project)
+![Arduino](https://img.shields.io/badge/Arduino-UNO-blue?logo=arduino)
+![C++](https://img.shields.io/badge/Code-C%2B%2B-orange?logo=cplusplus)
+![IoT](https://img.shields.io/badge/IoT-Integration-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-➯ [Technologies Used](#technologies-used)
+## 🚀 Overview
 
-➯ [Components &amp; Tools](#components--tools)
+**Smart Rover** is an intelligent robotic system designed to navigate environments autonomously, avoiding obstacles using ultrasonic sensors. It can also be remotely controlled and monitored via Bluetooth, integrating IoT capabilities for real-time operation.
 
-➯ [Project Approach](#project-approach)
+## 📋 Features
 
-➯ [Results](#results)
+- 🧭 **Autonomous Navigation**: Detects obstacles and automatically navigates around them.
+- 📡 **Remote Control**: Bluetooth connectivity allows for manual control via a mobile app.
+- 🌐 **IoT Capabilities**: Provides remote monitoring and control.
+- ⚡ **Portable Design**: Lightweight and powered by rechargeable Li-Ion batteries.
 
-## About the Project
+## 🛠️ Technologies Used
 
-The Obstacle Avoidance Robot is designed to navigate through an environment by detecting obstacles using ultrasonic sensors. The robot can autonomously avoid obstacles and can be remotely controlled and monitored via IoT capabilities.
+- **C++** 💻 - Programming language for Arduino control.
+- **IoT** 🌐 - Bluetooth integration for remote access.
 
-## Technologies Used
+## 🔧 Components & Tools
 
-- C++
-- IoT
+- **Arduino Uno** 🧠 - Microcontroller board
+- **Ultrasonic Sensor (HC-SR04)** 📡 - For obstacle detection
+- **Servo Motor** 🔄 - For controlling direction
+- **Arduino L293D Motor Driver Shield** 🛠️ - For motor control
+- **DC Motors (4)** 🚗 - Powering the wheels
+- **Wheels (4)** 🛞 - Robot movement
+- **Chassis (Lightweight Cardboard)** 📦 - Body frame
+- **2200 mAh Rechargeable Li-Ion Battery (2)** 🔋 - Power source
+- **Li-Ion Battery Charger** ⚡ - For recharging batteries
+- **Bluetooth Module (HC-05)** 📲 - Remote communication
+- **Jumper Wires** 🔌 - For circuit connections
+- **Electric Switch** ⚙️ - On/off control
+- **USB Cable** 🔗 - For programming the Arduino
+- **Mobile Phone** 📱 - For remote control
 
-## Components & Tools
+## 🏗️ Project Approach
 
-- Arduino Uno
-- Ultrasonic Sensor (HC-SR04)
-- Servo Motor
-- Arduino's L293D motor driver shield
-- DC Motors(4)
-- Wheels(4)
-- Chassis(LightWeight-CardBoard)
-- 2200 mAh Rechargeable Li Ion Battery(2)
-- Li-ion Battery charger
-- Bluetooth Module(HC-05)
-- Jumper Wires
-- Electric Switch
-- USB Cable
-- Mobile Phone( For Remote Control)
+### 1. Circuit Design
 
-## Project Approach
+- Connect the ultrasonic sensors, motor driver, and Bluetooth module to the Arduino.
 
-1. **Designing the Circuit:**
+### 2. Programming the Arduino
 
-   - Connect the ultrasonic sensors, motor driver, and Bluetooth module to the Arduino.
-2. **Programming the Arduino:**
+- Write the C++ code to read sensor data and control the motors.
 
-   - Write the C++ code to read sensor data and control the motors.
-3. **IoT Integration:**
+### 3. IoT Integration
 
-   - Set up the Bluetooth module for remote control and monitoring.
+- Set up the Bluetooth module for remote control and monitoring using a mobile application.
 
-[⬆️Back to Top](#obstacle-avoidance-robot-)
+## 🔌 Circuit Diagram
+
+![Circuit Diagram](https://github.com/user-attachments/assets/52c32b45-92f3-4104-a6d7-a31a3690595d)
+
+## 📚 References
+
+- [Arduino Documentation](https://www.arduino.cc/en/Guide/HomePage)
+- [Ultrasonic Sensor (HC-SR04)](https://components101.com/sensors/ultrasonic-sensor-working)
+- [Bluetooth Module (HC-05)](https://components101.com/wireless/hc-05-bluetooth-module)
+
+**If you enjoyed this project, please consider giving it a ⭐!**
+⬆️ **[Back to Top](#)**
+
+
+
+
+
