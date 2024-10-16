@@ -9,7 +9,7 @@
 
 ## 🚀 Overview
 
-**Smart Rover** is an intelligent robotic system designed to navigate environments autonomously, avoiding obstacles using ultrasonic sensors. It can also be remotely controlled and monitored via Bluetooth, integrating IoT capabilities for real-time operation.
+**Smart Rover** is an Obstacle Avoidance & Bluetooth Control Robot designed to navigate environments autonomously, avoiding obstacles using ultrasonic sensors. It can also be remotely controlled and monitored via Bluetooth, integrating IoT capabilities for real-time operation.
 
 ## 📋 Features
 
@@ -65,7 +65,7 @@
 - [Bluetooth Module (HC-05)](https://components101.com/wireless/hc-05-bluetooth-module)
 
 **If you enjoyed this project, please consider giving it a ⭐!**
-⬆️ **[Back to Top](#)**
+⬆️ **[Back to Top](Banner)**
 
 
 
