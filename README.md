@@ -20,25 +20,25 @@
 
 ## 🛠️ Technologies Used
 
-- **C++** 💻 - Programming language for Arduino control.
-- **IoT** 🌐 - Bluetooth integration for remote access.
+- **C++** - Programming language for Arduino control.
+- **IoT** - Bluetooth integration for remote access.
 
 ## 🔧 Components & Tools
 
-- **Arduino Uno** 🧠 - Microcontroller board
-- **Ultrasonic Sensor (HC-SR04)** 📡 - For obstacle detection
-- **Servo Motor** 🔄 - For controlling direction
-- **Arduino L293D Motor Driver Shield** 🛠️ - For motor control
-- **DC Motors (4)** 🚗 - Powering the wheels
-- **Wheels (4)** 🛞 - Robot movement
-- **Chassis (Lightweight Cardboard)** 📦 - Body frame
-- **2200 mAh Rechargeable Li-Ion Battery (2)** 🔋 - Power source
-- **Li-Ion Battery Charger** ⚡ - For recharging batteries
-- **Bluetooth Module (HC-05)** 📲 - Remote communication
-- **Jumper Wires** 🔌 - For circuit connections
-- **Electric Switch** ⚙️ - On/off control
-- **USB Cable** 🔗 - For programming the Arduino
-- **Mobile Phone** 📱 - For remote control
+- **Arduino Uno** - Microcontroller board
+- **Ultrasonic Sensor (HC-SR04)** - For obstacle detection
+- **Servo Motor** - For controlling direction
+- **Arduino L293D Motor Driver Shield** - For motor control
+- **DC Motors (4)** - Powering the wheels
+- **Wheels (4)** - Robot movement
+- **Chassis (Lightweight Cardboard)** - Body frame
+- **2200 mAh Rechargeable Li-Ion Battery (2)** - Power source
+- **Li-Ion Battery Charger** - For recharging batteries
+- **Bluetooth Module (HC-05)** - Remote communication
+- **Jumper Wires** - For circuit connections
+- **Electric Switch** - On/off control
+- **USB Cable** - For programming the Arduino
+- **Mobile Phone**- For remote control
 
 ## 🏗️ Project Approach
 
@@ -64,7 +64,7 @@
 - [Ultrasonic Sensor (HC-SR04)](https://components101.com/sensors/ultrasonic-sensor-working)
 - [Bluetooth Module (HC-05)](https://components101.com/wireless/hc-05-bluetooth-module)
 
-**If you enjoyed this project, please consider giving it a ⭐!**
+**If you like this project, please consider giving it a ⭐!**
 ⬆️ **[Back to Top](Banner)**
 
 
