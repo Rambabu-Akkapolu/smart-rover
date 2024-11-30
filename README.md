@@ -7,23 +7,21 @@
 ![IoT](https://img.shields.io/badge/IoT-Integration-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-## 🚀 Overview
-
 **Smart Rover** is an Obstacle Avoidance & Bluetooth Control Robot designed to navigate environments autonomously, avoiding obstacles using ultrasonic sensors. It can also be remotely controlled and monitored via Bluetooth, integrating IoT capabilities for real-time operation.
 
 ## 📋 Features
 
-- 🧭 **Autonomous Navigation**: Detects obstacles and automatically navigates around them.
-- 📡 **Remote Control**: Bluetooth connectivity allows for manual control via a mobile app.
-- 🌐 **IoT Capabilities**: Provides remote monitoring and control.
-- ⚡ **Portable Design**: Lightweight and powered by rechargeable Li-Ion batteries.
+-  **Autonomous Navigation**: Detects obstacles and automatically navigates around them.
+-  **Remote Control**: Bluetooth connectivity allows for manual control via a mobile app.
+-  **IoT Capabilities**: Provides remote monitoring and control.
+-  **Portable Design**: Lightweight and powered by rechargeable Li-Ion batteries.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **C++** - Programming language for Arduino control.
 - **IoT** - Bluetooth integration for remote access.
 
-## 🔧 Components & Tools
+## Components & Tools
 
 - **Arduino Uno** - Microcontroller board
 - **Ultrasonic Sensor (HC-SR04)** - For obstacle detection
@@ -40,7 +38,7 @@
 - **USB Cable** - For programming the Arduino
 - **Mobile Phone**- For remote control
 
-## 🏗️ Project Approach
+## Project Approach
 
 ### 1. Circuit Design
 
@@ -54,7 +52,7 @@
 
 - Set up the Bluetooth module for remote control and monitoring using a mobile application.
 
-## 🔌 Circuit Diagram
+##  Circuit Diagram
 
 ![Circuit Diagram](https://github.com/user-attachments/assets/52c32b45-92f3-4104-a6d7-a31a3690595d)
 
@@ -65,7 +63,7 @@
 - [Bluetooth Module (HC-05)](https://components101.com/wireless/hc-05-bluetooth-module)
 
 **If you like this project, please consider giving it a ⭐!**
-⬆️ **[Back to Top](Banner)**
+⬆️ **[Back to Top](./assets/banner.png)**
 
 
 
