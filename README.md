@@ -16,8 +16,8 @@
 -  **Remote Control**: Bluetooth connectivity allows for manual control via a mobile app.
 -  **IoT Capabilities**: Provides remote monitoring and control.
 -  **Portable Design**: Lightweight and powered by rechargeable Li-Ion batteries.
-
-![smart-rover-mockup](https://github.com/user-attachments/assets/39da5ffb-3e87-41ae-8ce2-13f69657ada7)
+  
+  ![smart-rover mockup_](https://github.com/user-attachments/assets/36c6b671-6ca8-479e-821a-5be61b665a5f)
 
 ## Technologies Used
 
