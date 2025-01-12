@@ -1,3 +1,4 @@
+<a id="top"></a>
 ![Banner](./assets/banner.png)
 
 # 🤖 Smart Rover - The Obstacle Avoidance & Bluetooth Control Robot
@@ -15,6 +16,8 @@
 -  **Remote Control**: Bluetooth connectivity allows for manual control via a mobile app.
 -  **IoT Capabilities**: Provides remote monitoring and control.
 -  **Portable Design**: Lightweight and powered by rechargeable Li-Ion batteries.
+
+![smart-rover-mockup](https://github.com/user-attachments/assets/39da5ffb-3e87-41ae-8ce2-13f69657ada7)
 
 ## Technologies Used
 
@@ -62,8 +65,8 @@
 - [Ultrasonic Sensor (HC-SR04)](https://components101.com/sensors/ultrasonic-sensor-working)
 - [Bluetooth Module (HC-05)](https://components101.com/wireless/hc-05-bluetooth-module)
 
-**If you like this project, please consider giving it a ⭐!**
-⬆️ **[Back to Top](./assets/banner.png)**
+**If you like this project 😊, consider giving it a ⭐!**
+⬆️ **[Back to Top](#top)**
 
 
 
